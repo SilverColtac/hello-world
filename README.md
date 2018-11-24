@@ -1,3 +1,4 @@
 # hello-world
 tutorial
-My nme is silver
+My name is Silver
+I am great.
